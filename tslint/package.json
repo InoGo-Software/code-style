@@ -1,0 +1,14 @@
+{
+  "name": "@inogo/tslint",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/InoGo-Software/code-style",
+  "author": "InoGo Software",
+  "license": "MIT",
+  "private": false,
+  "files": ["index.js"],
+  "dependencies": {},
+  "peerDependencies": {
+    "tslint": ""
+  }
+}
